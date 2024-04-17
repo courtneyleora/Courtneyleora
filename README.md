@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Courtney Ross</h1>
 <h3 align="center">I am a 3rd year undergrad studying for a BS in Computer Science at Georgia State University with experience in web programming.</h3>
 
-- 🔭 I’m currently working on [Cleo Palace](https://53a50683-b1c7-45b0-aa27-bdbf4e816d6f-00-1vf5a5qo6gn8e.janeway.replit.dev/?initialPath=%2F&id=%3Ar1g%3A)
+- 🔭 I’m currently working on [Cleo Palace](http://127.0.0.1:5500/index.html)
 
 - 🌱 I’m currently learning **Data structures and web programming**
 
-- 📝 I regularly write articles on [CLEO PALACE](https://53a50683-b1c7-45b0-aa27-bdbf4e816d6f-00-1vf5a5qo6gn8e.janeway.replit.dev/?initialPath=%2F&id=%3Ar1g%3A)
+- 📝 I regularly write articles on [CLEO PALACE](http://127.0.0.1:5500/index.html)
 
 - 📫 How to reach me **courtneylr2025@gmail.com, cross52@student.gsu.edu**
 
