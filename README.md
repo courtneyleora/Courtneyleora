@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Courtney Ross</h1>
 <h3 align="center">I am a 3rd year undergrad studying for a BS in Computer Science at Georgia State University with experience in web programming.</h3>
 
-- 🔭 I’m currently working on [Cleo Palace](file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
+- 🔭 I’m currently working on [Cleo Palace] (file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
 
 - 🌱 I’m currently learning **Data structures and web programming**
 
-- 📝 I regularly write articles on [CLEO PALACE](file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
+- 📝 I regularly write articles on [CLEO PALACE] (file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
 
 - 📫 How to reach me **courtneylr2025@gmail.com, cross52@student.gsu.edu**
 
