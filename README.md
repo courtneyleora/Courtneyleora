@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **courtneylr2025@gmail.com, cross52@student.gsu.edu**
 
-- 📄 Know about my experiences [resume]([https://docs.google.com/document/d/1EeHEQXjrlcmmoHViaYHMVD10E2nd5q0cYhm3a9YpeNE/edit?usp=sharing](https://docs.google.com/document/d/1EeHEQXjrlcmmoHViaYHMVD10E2nd5q0cYhm3a9YpeNE/edit?usp=sharing))
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1RXeR269OQrSaTYlP7df3Fuf9i1HhHyFR1XpnRjKmgMQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I can't give up chocolate croissants**
 
