@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1RXeR269OQrSaTYlP7df3Fuf9i1HhHyFR1XpnRjKmgMQ/edit?usp=sharing)
 
-- ⚡ Fun fact **I can't give up chocolate croissants**
+- ⚡ Fun fact **I play tennis on my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
