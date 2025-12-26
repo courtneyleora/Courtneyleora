@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Courtney Ross</h1>
-<h3 align="center">I am a 3rd year undergrad studying for a BS in Computer Science at Georgia State University with experience in web programming.</h3>
+<h3 align="center">I am a new grad with a a BAS degree in Computer Science from Georgia State University with experience in web and mobile app full stack developement.</h3>
 
-- 🔭 I’m currently working on [Cleo Palace](file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
+- 🔭 I’m currently working on [Libray Mananagement mobile app](
+- (https://github.com/courtneyleora/Library-Management-Mobile-App))
 
 - 🌱 I’m currently learning **Data structures and web programming**
 
