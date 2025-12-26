@@ -4,13 +4,11 @@
 - 🔭 I’m currently working on [Libray Mananagement mobile app](
 - (https://github.com/courtneyleora/Library-Management-Mobile-App))
 
-- 🌱 I’m currently learning **Data structures and web programming**
+- 🌱 My most recent experience is with ML and Automata
 
 - 📝 I regularly write articles on [CLEO PALACE](file:///Users/clr.img/Library/Mobile%20Documents/com~apple~CloudDocs/Codepath/Health.html)
 
 - 📫 How to reach me **courtneylr2025@gmail.com, cross52@student.gsu.edu**
-
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1RXeR269OQrSaTYlP7df3Fuf9i1HhHyFR1XpnRjKmgMQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I play tennis on my free time**
 
