@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Courtney Ross</h1>
-<h3 align="center">I am a new grad with a a BAS degree in Computer Science from Georgia State University with experience in web and mobile app full stack developement.</h3>
+<h3 align="center">I am a new grad with a a BAS degree in Computer Science from Georgia State University with experience in web and mobile app full stack engineering</h3>
 
 - 🔭 I’m currently working on [Libray Mananagement mobile app](
 - (https://github.com/courtneyleora/Library-Management-Mobile-App))
